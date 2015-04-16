@@ -173,6 +173,22 @@ Collection of links for every Android developer
 - [Erick Kande](https://developers.google.com/experts/people/erick-kande)
 
 
+## Googlers
+- [Roman Nurik](http://roman.nurik.net/)
+- [Chet Haase](https://plus.google.com/+ChetHaase)
+- [Tor Norbye](https://plus.google.com/+TorNorbye)
+- [Xavier Ducrohet](https://plus.google.com/+XavierDucrohet)
+- [Romain Guy](http://www.curious-creature.com/category/android/)
+- [Alex Lockwood](https://plus.google.com/+AlexLockwood/)
+- [Matias Duarte](https://plus.google.com/+MatiasDuarte)
+- [Nick Butcher](https://plus.google.com/+NickButcher)
+- [Adam Powell](https://plus.google.com/+AdamWPowell)
+- [Ficus Kirkpatrick](https://plus.google.com/+FicusKirkpatrick)
+- [Reto Meier](https://plus.google.com/+RetoMeier)
+- [Nazmul Idris](https://plus.google.com/+NazmulIdris)
+- [Chris Banes](https://chris.banes.me/)
+
+
 ## Open Source Apps
 
 - [Firefox for Android](https://developer.mozilla.org/en-US/Firefox_for_Android)
