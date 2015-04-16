@@ -195,5 +195,10 @@ Collection of links for every Android developer
 - [GitHub](https://github.com/forkhubs/android)
 - [WordPress](https://github.com/wordpress-mobile/WordPress-Android)
 
+
+## Learning Resources
+- [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
+
+
 ## Books
 No books will be listed here. They'll probably be mentioned in a separate repo.
