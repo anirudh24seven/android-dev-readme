@@ -72,6 +72,7 @@ Collection of links for every Android developer
 
 - [Material Palette](http://www.materialpalette.com/)
 - [Material Design Icons](http://materialdesignicons.com/)
+- [/r/MaterialDesign](https://www.reddit.com/r/MaterialDesign)
 
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
@@ -117,6 +118,7 @@ Collection of links for every Android developer
 - [IO Bytes 2014 - Android](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIEPtRoKDnsqQdF3JZxFVWF)
 - [Google I/O 2013 Android](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJOOTFfYzhR2d-rcSbBbEE_)
 
+
 ## Podcasts
 - [Android Developers Backstage](http://androidbackstage.blogspot.in/)
 - [Fragmented Podcast](http://fragmentedpodcast.com/)
@@ -129,6 +131,11 @@ Collection of links for every Android developer
 - [Android Spin](http://androidspin.com/)
 - [Talk Android](http://www.talkandroid.com/)
 - [Droid Life](http://www.droid-life.com/)
+
+
+## Newsletters
+- [Android Weekly](http://androidweekly.net/)
+- [Android Dev Digest](http://www.androiddevdigest.com/)
 
 
 ## Android GDEs (Google Developer Experts)
