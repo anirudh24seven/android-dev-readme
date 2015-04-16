@@ -107,6 +107,9 @@ Collection of links for every Android developer
 
 ## Library repos
 - [Android Arsenal](https://android-arsenal.com/)
+- [JStumpp/Awesome Android](https://github.com/JStumpp/awesome-android)
+- [snowdream/Awesome Android](https://github.com/snowdream/awesome-android)
+- [wasabeef/Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
 
 ## Videos
 - [YouTube: Android Developers](https://www.youtube.com/user/androiddevelopers)
