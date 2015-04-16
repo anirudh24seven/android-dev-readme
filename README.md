@@ -99,7 +99,7 @@ Collection of links for every Android developer
 - [Circle](http://engineering.circle.com/tag/android/)
 - [Facebook](https://code.facebook.com/android/)
 - [Instagram](http://instagram-engineering.tumblr.com/tagged/android)
-- [Square](https://corner.squareup.com/)
+- [Square](http://square.github.io/#android)
 
 
 ## Library repos
