@@ -194,6 +194,9 @@ Collection of links for every Android developer
 - [DuckDuckGo Search & Stories for Android](https://github.com/duckduckgo/android)
 - [GitHub](https://github.com/forkhubs/android)
 - [WordPress](https://github.com/wordpress-mobile/WordPress-Android)
+- [Google I/O](https://github.com/google/iosched)
+- [F-Droid](https://gitlab.com/fdroid/fdroidclient)
+- [Prey anti-theft](https://github.com/prey/prey-android-client)
 
 
 ## Learning Resources
