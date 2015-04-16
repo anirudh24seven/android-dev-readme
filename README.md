@@ -7,14 +7,12 @@ Collection of links for every Android developer
 - [Develop](http://developer.android.com/develop/index.html)
 - [Distribute](http://developer.android.com/distribute/index.html)
 
-
 - [Training](http://developer.android.com/training/index.html)
 - [API Guides](http://developer.android.com/guide/index.html)
 - [Reference](http://developer.android.com/reference/packages.html)
 - [Tools](http://developer.android.com/sdk/index.html)
 - [Google Services](http://developer.android.com/google/index.html)
 - [Samples](http://developer.android.com/samples/index.html)
-
 
 - [Google Play](http://developer.android.com/distribute/googleplay/index.html)
 - [Essentials](http://developer.android.com/distribute/essentials/index.html)
@@ -68,14 +66,11 @@ Collection of links for every Android developer
 - [Google's Material design specification](http://www.google.com/design/spec/material-design/introduction.html)
 - [Android Material Design documentation](https://developer.android.com/design/material/index.html)
 
-
 - [Android Niceties](http://androidniceties.tumblr.com/)
 - [MaterialUp](http://www.materialup.com/)
 
-
 - [Material Palette](http://www.materialpalette.com/)
 - [Material Design Icons](http://materialdesignicons.com/)
-
 
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
@@ -83,14 +78,12 @@ Collection of links for every Android developer
 ## Prototyping
 - [Facebook Origami](http://facebook.github.io/origami/)
 
-
 - [Android Lollipop Stencils for Pencil](https://github.com/nathanielw/Android-Lollipop-Pencil-Stencils)
 - [Material Icons for Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil)
 
 
 ## Blogs
 - [Android Developers Blog](http://android-developers.blogspot.com/)
-
 
 - [Dan Lew Codes](http://blog.danlew.net/)
 - [Cyril Mottier](http://cyrilmottier.com/)
@@ -111,13 +104,11 @@ Collection of links for every Android developer
 ## Videos
 - [YouTube: Android Developers](https://www.youtube.com/user/androiddevelopers)
 
-
 - [Android Design in Action](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF)
 - [DevBytes](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0)
 - [Android Performance Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 - [User Experience Design for Developers](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-riD21lnOjVYBqSkNII3_k)
 - [Android Developer Stories](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9ofd2f-_-xmUi07wIGZa1c)
-
 
 - [IO Bytes 2014 - Android](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIEPtRoKDnsqQdF3JZxFVWF)
 - [Google I/O 2013 Android](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJOOTFfYzhR2d-rcSbBbEE_)
@@ -187,6 +178,10 @@ Collection of links for every Android developer
 - [Reto Meier](https://plus.google.com/+RetoMeier)
 - [Nazmul Idris](https://plus.google.com/+NazmulIdris)
 - [Chris Banes](https://chris.banes.me/)
+
+
+## Other major community contributors
+- [Jake Wharton](http://jakewharton.com/)
 
 
 ## Open Source Apps
