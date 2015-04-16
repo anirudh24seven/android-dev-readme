@@ -59,6 +59,7 @@ Collection of links for every Android developer
 
 ## Communities
 - [/r/androiddev](http://www.reddit.com/r/androiddev)
+- [#android-dev on freenode](http://irc.lc/freenode/android-dev)
 - [Google Developer Groups](https://developers.google.com/groups/directory/)
 
 
