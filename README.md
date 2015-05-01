@@ -69,6 +69,7 @@ Collection of links for every Android developer
 
 - [Android Niceties](http://androidniceties.tumblr.com/)
 - [MaterialUp](http://www.materialup.com/)
+- [Material Design Blog](http://materialdesignblog.com/)
 
 - [Material Palette](http://www.materialpalette.com/)
 - [Material Design Icons](http://materialdesignicons.com/)
