@@ -140,6 +140,11 @@ Collection of links for every Android developer
 - [Android Dev Digest](http://www.androiddevdigest.com/)
 
 
+## Help other Android devs
+- [StackOverflow tag:Android](http://stackoverflow.com/questions/tagged/android)
+- [/r/androidev](http://www.reddit.com/r/androiddev)
+
+
 ## Android GDEs (Google Developer Experts)
 - [David González](https://developers.google.com/experts/people/david-gonz-lez)
 - [Royi Benyossef](https://developers.google.com/experts/people/royi-benyossef)
